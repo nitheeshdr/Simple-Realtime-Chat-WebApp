@@ -1,3 +1,5 @@
+# 💬 Simple Realtime Chat WebApp
+
 A real-time chat application using **Node.js**, **Express**, **Socket.IO**, and **MongoDB**. Users can enter their names to join the chat, see messages from others instantly, and view who is typing in real-time. All messages are saved in MongoDB.
 
 ---
@@ -13,11 +15,7 @@ A real-time chat application using **Node.js**, **Express**, **Socket.IO**, and 
 
 ---
 
-## 📸 Screenshot
 
-> *(Add a screenshot of your chat app UI here)*
-
----
 
 ## 🛠️ Built With
 
